@@ -1,7 +1,7 @@
 
 <html>
 <head>
-    <title>GitHub Profile - Mrlikochil</title>
+    
 </head>
 <body>
     <hr>
