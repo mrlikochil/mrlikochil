@@ -4,7 +4,6 @@
     <title>GitHub Profile - Mrlikochil</title>
 </head>
 <body>
-
     <hr>
     <h2>About Me:</h2>
     <p>
